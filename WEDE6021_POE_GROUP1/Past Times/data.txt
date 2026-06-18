@@ -1,0 +1,5 @@
+John, john@mail.com
+Mary, mary@mail.com
+Sam, sam@mail.com
+Lisa, lisa@mail.com
+Tom, tom@mail.com
